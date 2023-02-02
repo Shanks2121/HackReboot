@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item  android:title="Profile" android:onClick="toProfile" android:icon="@drawable/ic_baseline_person_24" />
+    <item android:title="Settings" android:icon="@drawable/ic_baseline_settings_24" />
+    <item android:title="Contact Us" android:icon="@drawable/ic_baseline_supervised_user_circle_24" />
+    <item android:title="Sign Out" android:onClick="SignOut" android:icon="@drawable/ic_baseline_output_24"/>
+</menu>

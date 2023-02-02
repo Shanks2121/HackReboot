@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BitD-Events</string>
+    <string name="intro_header">BITDEVENTS</string>
+    <string name="intro_sub_header">life is a series of events \n get started and never miss one</string>
+    <string name="high">What is Flutter Festival London?
+Flutter Festival London is a community led event series where developers can join to learn the fundamentals of Google technologies - featuring Flutter, Firebase and Google Cloud content.
+
+Flutter Festival London is happening over two days -
+Saturday, March 26 – In Person
+Sunday, March 27 - Online</string>
+
+
+</resources>
